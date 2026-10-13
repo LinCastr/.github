@@ -17,6 +17,20 @@ LinCastr is an open-source organization focused on porting and building applicat
 - **Practical over perfect.** We focus on software that works well and solves real problems.
 - **Respect for users.** No unnecessary tracking, no bloat, and no lock-in.
 
+## Tech Stack
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=antigravity&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-222222?style=for-the-badge&logo=linux&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-08A283?style=for-the-badge&logo=cachyos&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+![QML](https://img.shields.io/badge/QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+
 ## Projects
 
 Our projects live in the repositories of this organization. Browse them to see what we're currently working on, and star the ones you like to follow their progress.
