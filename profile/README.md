@@ -7,7 +7,7 @@ LinCastr is an open-source organization focused on porting and building applicat
 ## What we do
 
 - Port applications and tools to Linux so users don't have to give up their workflow or switch systems
-- Build native Linux software that feels at home on the desktop
+- Build native Linux (maybe also Windows) software that feels at home on the desktop
 - Maintain our projects in the open, with clear documentation and a welcoming community
 
 ## Our principles
