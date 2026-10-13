@@ -16,6 +16,7 @@ LinCastr is an open-source organization focused on porting and building applicat
 - **Open source.** Our code is public, and anyone can read it, use it, and improve it.
 - **Practical over perfect.** We focus on software that works well and solves real problems.
 - **Respect for users.** No unnecessary tracking, no bloat, and no lock-in.
+- **Honesty.** The truth is the most important thing in our organization. If something is vibecoded, we will tell you it is.
 
 ## Tech Stack
 
